@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.env.*
+.local/
+outputs/
+media/
+*.mp4
+*.mov
+*.m4a
+*.wav
+*.mp3
